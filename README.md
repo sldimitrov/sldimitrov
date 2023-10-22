@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Slavi Dimitrov</h1>
+<h1 align="center">Hello there 🙋‍♂️, I'm Slavi Dimitrov</h1>
 <h3 align="center">A passionate future Software Engineer from SoftUni</h3>
 
 <img aling="right" alt="coding" width="600" src="https://media.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
