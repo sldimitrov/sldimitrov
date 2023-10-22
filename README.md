@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 🙋‍♂️, I'm Slavi Dimitrov</h1>
 <h3 align="center">A passionate future Software Engineer from SoftUni</h3>
 
-<img aling="center" alt="coding" width="600" src="https://media.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
+<img aling="middle" alt="coding" width="600" src="https://media.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slavcho179&label=Profile%20views&color=0e75b6&style=flat" alt="slavcho179" /> </p>
 
