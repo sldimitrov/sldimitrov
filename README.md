@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slavi Dimitrov</h1>
 <h3 align="center">A passionate future Software Engineer from SoftUni</h3>
 
-<img aling="right" alt="coding" width="400" src="https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/200w.gif?cid=6c09b9522f5fe3sq8tblgqbdpmd9k5nr6ylpatj3w6wjurq5&ep=v1_gifs_search&rid=200w.gif&ct=g"
+<img aling="right" alt="coding" width="400" src="https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/200w.gif?cid=6c09b9522f5fe3sq8tblgqbdpmd9k5nr6ylpatj3w6wjurq5&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slavcho179&label=Profile%20views&color=0e75b6&style=flat" alt="slavcho179" /> </p>
 
