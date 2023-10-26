@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slavcho179&label=Profile%20views&color=0e75b6&style=flat" alt="slavcho179" /> </p>
 
-- 🌱 I’m currently learning Python, HTML, CSS and Java **https://softuni.bg/**
+- 🌱 I’m currently learning Python, HTML, CSS and Java
   
 - 📫 Email to write me -**slavidimitrov06@abv.bg**
 
