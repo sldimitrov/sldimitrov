@@ -3,7 +3,7 @@
 
 <img aling="middle" alt="coding" width="600" src="https://media.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slavcho179&label=Profile%20views&color=0e75b6&style=flat" alt="slavcho179" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=slavcho179&label=Profile%20views&color=0e75b6&style=flat](https://miro.medium.com/v2/resize:fit:1400/1*q8ADDIrW8l6AvsGHBA37nA.png)" alt="slavcho179" /> </p>
 
 - 🌱 I’m currently learning Python, Java, HTML and CSS.
   
