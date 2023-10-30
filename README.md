@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 🙋‍♂️, I'm Slavi Dimitrov</h1>
+<h1 align="center">Hello there, I'm Slavi Dimitrov</h1>
 
 <img aling="center" alt="coding" width="1000" src="https://miro.medium.com/v2/resize:fit:1400/1*q8ADDIrW8l6AvsGHBA37nA.png">
 
