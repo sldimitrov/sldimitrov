@@ -5,6 +5,8 @@
 <h3 align="center">A passionate future Software Engineer from SoftUni</h3>
 
 - 🌱 I’m currently learning Python, Java, HTML and CSS.
+
+- 👀 I’m interested in Artificial Intelligence, Cybersecurity and Machine Learning.
   
 - 📫 Email to contant me -**slavidimitrov06@abv.bg**
 
