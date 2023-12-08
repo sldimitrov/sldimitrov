@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in Artificial Intelligence, Cybersecurity and Machine Learning.
   
-- 📫 Email to contant me -**slavidimitrov06@abv.bg**
+- 📫 Email to contant me -**slavidimitrov54@gmail.com**
 
 - ⚡ Fun fact **I love calistenics and volleyball just like programming.**
 
