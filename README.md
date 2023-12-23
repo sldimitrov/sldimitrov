@@ -2,15 +2,17 @@
 
 <h3 align="center">A passionate future Software Engineer from SoftUni</h3>
 
+- 👨‍💻 The official website of my University - **https://softuni.bg/**
+
 - 🌱 I’m currently learning Python, Java, HTML and CSS.
 
 - 👀 I’m interested in Artificial Intelligence, Cybersecurity and Machine Learning.
   
 - 📫 Email to contant me -**slavidimitrov54@gmail.com**
+- 📱 My Linkedln profile - *https://www.linkedin.com/in/trick-er-311982292/*
 
 - ⚡ Fun fact **I love calistenics and volleyball just like programming.**
 
-- 👨‍💻 The official website of my University - **https://softuni.bg/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
