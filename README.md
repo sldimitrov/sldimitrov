@@ -11,7 +11,7 @@
 - 📫 Email to contant me -**slavidimitrov54@gmail.com**
 - 📱 My Linkedln profile - *https://www.linkedin.com/in/trick-er-311982292/*
 
-- ⚡ Fun fact **I love calistenics and volleyball just like programming.**
+- ⚡ Fun fact - **I love calistenics and volleyball just like programming.**
 
 
 <h3 align="left">Connect with me:</h3>
