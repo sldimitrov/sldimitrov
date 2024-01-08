@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact - **I love calistenics and volleyball just like programming.**
 
-- - 👨‍💻 The official website of my University - **https://softuni.bg/**
+- 👨‍💻 The official website of my University - **https://softuni.bg/**
 
 
 <h3 align="left">Connect with me:</h3>
