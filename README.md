@@ -4,7 +4,7 @@
 
 - 👨‍💻 The official website of my University - **https://softuni.bg/**
 
-- 🌱 I’m currently learning Python, Java, HTML and CSS.
+- 🌱 I’m currently learning `Python`, Java, HTML and CSS.
 
 - 👀 I’m interested in Artificial Intelligence, Cybersecurity and Machine Learning.
   
