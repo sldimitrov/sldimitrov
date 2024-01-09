@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Slavi Dimitrov</h1>
 
-<h3 align="center">A passionate future Software Engineer from SoftUni</h3>
+<h3 align="center">A passionate Software Engineer from SoftUni!</h3>
 
 - 🌱 I’m currently learning `Python`, `Java`, `HTML` and `CSS`.
   
