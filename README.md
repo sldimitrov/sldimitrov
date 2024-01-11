@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Engineer from SoftUni!</h3>
 
-<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=240px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I’m currently learning `Python`, `Java`, `HTML` and `CSS`.
   
