@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Engineer!</h3>
 
-<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=120px height=110px alt="side_sticker" src="https://cdn.dribbble.com/users/8145153/screenshots/15924252/media/75fc0b31141cf07faa3efebb5d89ffa2.gif" />
 
 - 🌱 I’m currently learning `Python Advanced` in SoftUni.
   
