@@ -4,7 +4,7 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- 🌱 I’m currently learning `Python Advanced` in SoftUni.
+- 🌱 I’m currently learning `Python OOP` in SoftUni.
   
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
 
