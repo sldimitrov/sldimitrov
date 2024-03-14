@@ -37,3 +37,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sldimitrov&" alt="sldimitrov" /></p>
 
 <img src="https://komarev.com/ghpvc/?username=sldimitrov&color=brightgreen" alt="watching_count" />
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sldimitrov&layout=compact&bg_color=09131B&hide_border=true" />
+</div>
