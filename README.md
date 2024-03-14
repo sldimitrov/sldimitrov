@@ -30,7 +30,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ---
 
-### <h2> <summary>:zap: GitHub Stats</summary> </h2>
+### <h2> :zap: GitHub Stats </h2>
 
 <img height="160" align="left" alt="Slavi's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sldimitrov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
