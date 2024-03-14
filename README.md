@@ -5,17 +5,13 @@
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 - 🌱 I’m currently learning `Python OOP` in SoftUni.
-  
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
-
 - 👀 I’m interested in Artificial Intelligence, Cybersecurity and Machine Learning.
-  
 - 📱 My Linkedln profile - *https://www.linkedin.com/in/trick-er-311982292/* 
-
 - ⚡ Fun fact - **I love calistenics and volleyball just like programming.**
-
 - 👨‍💻 The official website of my University - **https://softuni.bg/**
 
+---
 
 ### <h2> 🤝🏻 Connect with Me </h2>
 <p align="left">
@@ -23,6 +19,8 @@
 <a href="https://www.facebook.com/slavi.dimitrov.3551/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/slavi.dimitrov.3551/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sldimitrovv_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sldimitrov_" height="30" width="40" /></a>
 </p>
+
+---
 
 ### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h2>
 <img align="left" width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" style="padding-right:10px;"/>
@@ -35,3 +33,5 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sldimitrov&" alt="sldimitrov" /></p>
 
 <img src="https://komarev.com/ghpvc/?username=sldimitrov&color=brightgreen" alt="watching_count" />
+
+<summary>:zap: GitHub Stats</summary>
