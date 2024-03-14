@@ -1,6 +1,6 @@
-<h1 align="center">  Hello there, I'm Slavi 👋</h1>  
+<h1 align="left">  Hello there, I'm Slavi 👋</h1>  
 
-<h3 align="center">A passionate Software Engineer!</h3>
+<h3 align="left">A passionate Software Engineer!</h3>
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
