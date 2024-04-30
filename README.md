@@ -4,7 +4,7 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- 🌱 I’m currently learning `Python OOP` in SoftUni.
+- 🌱 I’m currently learning `JS and React` in ORBIS.
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
 - 👀 I’m interested in Artificial Intelligence, Cybersecurity and Machine Learning.
 - 📱 My Linkedln profile - *https://www.linkedin.com/in/trick-er-311982292/* 
