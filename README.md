@@ -7,9 +7,8 @@
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
 - 👀 I’m interested in Web Development, Artificial Intelligence and Cybersecurity.
 - 📱 My [Linkedln](https://www.linkedin.com/in/trick-er-311982292/) profile
-- 📱 My Linkedln profile - *https://www.linkedin.com/in/trick-er-311982292/* 
 - ⚡ Fun fact - **I love calistenics and volleyball just like programming.**
-- 👨‍💻 The official website of my University - **https://softuni.bg/**
+- 👨‍💻 My [University](https://softuni.bg/)
 
 ---
 
