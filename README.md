@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning `JS and React` in ORBIS.
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
 - 👀 I’m interested in Web Development, Artificial Intelligence and Cybersecurity.
-- 📱 My [Linkedln](https://www.linkedin.com/in/trick-er-311982292/) profile
 - ⚡ Fun fact - **I love calistenics and volleyball just like programming.**
+- 📱 My [Linkedln](https://www.linkedin.com/in/trick-er-311982292/) profile
 - 👨‍💻 My [University](https://softuni.bg/)
 
 ---
