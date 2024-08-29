@@ -3,7 +3,7 @@
 <h2 align="left">A passionate Software Engineer!</h3>
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- 🌱 I’m currently learning `JS and React` in ORBIS.
+- 🌱 I’m currently learning `JS and React` in ORBIS Digital Services.
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
 - 👀 I’m interested in Web Development, Artificial Intelligence and Cybersecurity.
 - ⚡ Fun fact - **I love calistenics and volleyball just like programming.**
