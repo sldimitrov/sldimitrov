@@ -1,6 +1,6 @@
 <h1 align="left">  Hello there, I'm Slavi 👋</h1>             
    
-<h2 align="left">A passionate Software Engineer!</h3>
+<h2 align="left">A passionate Frontend Developer!</h3>
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 - 🌱 I’m currently learning `JS and React`.
