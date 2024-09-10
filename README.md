@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning JS frameworks such as `Vue.js`, `React.js` and `Next.js` .
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
-- 👀 I’m interested in Web Development, Artificial Intelligence and Cybersecurity.
-- ⚡ Fun fact - **I love calistenics and volleyball just like programming.**
+- 👀 Except Web Development, I’m interested in, Artificial Intelligence and Cybersecurity.
+- ⚡ Fun fact - **I love sports just like programming.**
 - 📱 My [Linkedln](https://www.linkedin.com/in/trick-er-311982292/) profile
 - 👨‍💻 My [University](https://softuni.bg/)
 
