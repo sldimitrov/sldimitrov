@@ -35,7 +35,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" alt="vs" />
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GitLab-Dark.svg"/>  
-  <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img alt="Git" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" />
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" />
 </p>
