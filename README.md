@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
-  <a href="https://react.dev/learn" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg" />
+  <a href="https://react.dev/learn" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg"/>  
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg"/>  
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Dark.svg"/>
