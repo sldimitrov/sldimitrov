@@ -24,7 +24,7 @@
 ### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h2>
 
 <p align="left">
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="javascript" width="40" height="40"/>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
   <a href="https://react.dev/learn" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg" />
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg"/>  
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg"/>  
