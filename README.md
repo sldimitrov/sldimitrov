@@ -31,8 +31,8 @@
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Dark.svg"/>
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg"/>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="html5" width="45" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" />
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="40" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" alt="vs" />
   <a href="" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GitLab-Dark.svg"/>  
   <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
