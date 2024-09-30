@@ -4,7 +4,7 @@
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 - 🌱 I’m currently learning JS frameworks such as `Vue.js`, `React.js` and `Next.js` .
-- 👀 Except Web Development, I’m interested in, Artificial Intelligence and Cybersecurity.
+- 👀 Except Web Development, I’m interested in Artificial Intelligence and Cybersecurity.
 - ⚡ Fun fact - **I love sports just like programming.**
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
 - 📱 My [Linkedln](https://www.linkedin.com/in/trick-er-311982292/) profile
