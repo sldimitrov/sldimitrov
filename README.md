@@ -12,6 +12,15 @@
 
 ---
 
+
+### 🎥 Just Launched My YouTube Channel!
+I'm now sharing my knowledge through short, practical tutorials on **web development**, starting with **React**, **Node.js**, and more.
+
+📺 [Watch My First Video →](https://www.youtube.com/channel/UCSeY5GbxmPGPz9c-ueWynNA)  
+🧠 Let's learn and build together!
+
+---
+
 ### <h2> 🤝🏻 Connect with me:</h2>
 
 <p align="left">
