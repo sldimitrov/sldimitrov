@@ -12,15 +12,6 @@
 
 ---
 
-
-### 🎥 Just Launched My YouTube Channel!
-I'm now sharing my knowledge through short, practical tutorials on **web development**, starting with **React**, **Node.js**, and more.
-
-📺 [Watch My First Video →](https://www.youtube.com/channel/UCSeY5GbxmPGPz9c-ueWynNA)  
-🧠 Let's learn and build together!
-
----
-
 ### <h2> 🤝🏻 Connect with me:</h2>
 
 <p align="left">
@@ -50,10 +41,3 @@ I'm now sharing my knowledge through short, practical tutorials on **web develop
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" />
 </p>
-
----
-
-### <h2> :zap: GitHub Stats </h2>
-
-<img height="160" align="left" alt="Slavi's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sldimitrov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sldimitrov&layout=compact&bg_color=09131B&hide_border=true" />
