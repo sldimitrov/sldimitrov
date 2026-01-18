@@ -1,14 +1,13 @@
 <h1 align="left">  Hello there, I'm Slavi 👋</h1>             
    
-<h2 align="left">A passionate Frontend Developer!</h3>
+<h2 align="left">A passionate Fullstack Developer!</h3>
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- 🌱 I’m currently learning JS frameworks such as `Vue.js`, `React.js` and `Next.js` .
-- 👀 Except Web Development, I’m interested in Artificial Intelligence and Cybersecurity.
+- 🌱 I’m currently learning `Django` .
+- 👀 Except Web and Systems, I’m interested in Artificial Intelligence.
 - ⚡ Fun fact - **I love sports just like programming.**
 - 📫 Email to contant me - **slavidimitrov54@gmail.com**
 - 📱 My [Linkedln](https://www.linkedin.com/in/trick-er-311982292/) profile
-- 👨‍💻 My [University](https://softuni.bg/)
 
 ---
 
